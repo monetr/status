@@ -19,6 +19,7 @@ status-website:
   cname: status.monetr.app
   # baseUrl: /status
   logoUrl: https://my.monetr.app/apple-touch-icon.png
+  favicon: https://my.monetr.app/favicon.ico
   themeUrl: https://status.monetr.app/theme.css
   name: monetr Status
 

@@ -17,16 +17,12 @@ assignees:
   - elliotcourant
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.monetr.app
-  # baseUrl: /status
   logoUrl: https://my.monetr.app/apple-touch-icon.png
   favicon: https://my.monetr.app/favicon.ico
   themeUrl: https://status.monetr.app/theme.css
   name: monetr Status
-
-  introTitle: monetr's status page
+  introTitle: monetr status page
   introMessage: |
     If monetr is down or undergoing maintainence you'll be able to find
     information here. You can also see [Plaid](https://plaid.com)'s general

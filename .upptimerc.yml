@@ -19,6 +19,8 @@ status-website:
   favicon: https://my.monetr.app/favicon.ico
   themeUrl: https://status.monetr.app/theme.css
   name: monetr Status
+  customHeadHtml: |
+    <script defer src="https://a.monetr.app/script.js" data-website-id="ba15f61e-d963-48ec-983e-a87898c1ef6a"></script>
   introTitle: monetr status page
   introMessage: |
     If monetr is down or undergoing maintainence you'll be able to find

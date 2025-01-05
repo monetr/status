@@ -22,17 +22,19 @@
     "url": "https://status.plaid.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/status.plaid.com.ico",
     "slug": "plaid",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 271,
-    "timeWeek": 211,
-    "timeMonth": 216,
-    "timeYear": 216,
-    "dailyMinutesDown": {}
+    "time": 214,
+    "timeDay": 194,
+    "timeWeek": 199,
+    "timeMonth": 214,
+    "timeYear": 214,
+    "dailyMinutesDown": {
+      "2025-01-05": 0
+    }
   }
 ]

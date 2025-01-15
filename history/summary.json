@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 200,
-    "timeWeek": 213,
-    "timeMonth": 210,
-    "timeYear": 216,
+    "time": 215,
+    "timeDay": 175,
+    "timeWeek": 209,
+    "timeMonth": 206,
+    "timeYear": 215,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,19 @@
     "url": "https://status.plaid.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/status.plaid.com.ico",
     "slug": "plaid",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 161,
-    "timeWeek": 156,
-    "timeMonth": 196,
-    "timeYear": 205,
-    "dailyMinutesDown": {}
+    "time": 201,
+    "timeDay": 105,
+    "timeWeek": 140,
+    "timeMonth": 191,
+    "timeYear": 201,
+    "dailyMinutesDown": {
+      "2025-01-15": 0
+    }
   }
 ]

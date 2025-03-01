@@ -1,7 +1,7 @@
 url: https://status.plaid.com/api/v2/status.json
-status: degraded
-code: 405
-responseTime: 65
-lastUpdated: 2025-03-01T20:56:31.255Z
+status: up
+code: 200
+responseTime: 139
+lastUpdated: 2025-03-01T21:05:07.945Z
 startTime: 2024-12-08T16:35:38.505Z
 generator: Upptime <https://github.com/upptime/upptime>

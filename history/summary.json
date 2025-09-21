@@ -4,19 +4,19 @@
     "url": "https://my.monetr.app/api/health",
     "icon": "https://my.monetr.app/favicon.ico",
     "slug": "monetr",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 213,
-    "timeWeek": 213,
-    "timeMonth": 225,
-    "timeYear": 249,
+    "time": 248,
+    "timeDay": 198,
+    "timeWeek": 210,
+    "timeMonth": 224,
+    "timeYear": 248,
     "dailyMinutesDown": {
-      "2025-09-21": 0
+      "2025-09-21": 12
     }
   },
   {

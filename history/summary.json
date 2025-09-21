@@ -4,7 +4,7 @@
     "url": "https://my.monetr.app/api/health",
     "icon": "https://my.monetr.app/favicon.ico",
     "slug": "monetr",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 213,
     "timeMonth": 225,
     "timeYear": 249,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-21": 0
+    }
   },
   {
     "name": "Plaid",
@@ -25,12 +27,12 @@
     "status": "up",
     "uptime": "97.72%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.97%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "97.72%",
     "time": 228,
     "timeDay": 286,
-    "timeWeek": 567,
+    "timeWeek": 680,
     "timeMonth": 287,
     "timeYear": 228,
     "dailyMinutesDown": {

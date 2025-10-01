@@ -9,3 +9,8 @@
   --graph-opacity: 1;
   --graph-filter: filter: brightness(0) saturate(100%) invert(12%) sepia(80%) saturate(5712%) hue-rotate(265deg) brightness(71%) contrast(95%);
 }
+
+article > p > img {
+  width: -webkit-fill-available;
+  height: unset;
+}

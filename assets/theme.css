@@ -14,3 +14,7 @@ article > p > img {
   width: -webkit-fill-available;
   height: unset;
 }
+
+article.degraded:not(.degraded-active) {
+  --degraded-border-left-color: blueviolet;
+}

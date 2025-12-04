@@ -4,7 +4,7 @@
     "url": "https://my.monetr.app/api/health",
     "icon": "https://my.monetr.app/favicon.ico",
     "slug": "monetr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.70%",

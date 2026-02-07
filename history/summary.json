@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.80%",
     "time": 240,
-    "timeDay": 244,
-    "timeWeek": 251,
-    "timeMonth": 225,
+    "timeDay": 269,
+    "timeWeek": 244,
+    "timeMonth": 227,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2026-01-12": 30,
@@ -31,14 +31,14 @@
     "slug": "plaid",
     "status": "up",
     "uptime": "97.87%",
-    "uptimeDay": "96.01%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "97.52%",
     "time": 223,
-    "timeDay": 158,
-    "timeWeek": 159,
-    "timeMonth": 166,
+    "timeDay": 122,
+    "timeWeek": 164,
+    "timeMonth": 162,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2026-02-05": 57,
@@ -106,8 +106,7 @@
       "2025-02-13": 66,
       "2025-02-12": 39,
       "2025-02-10": 118,
-      "2025-02-09": 69,
-      "2025-02-07": 81
+      "2025-02-09": 69
     }
   }
 ]

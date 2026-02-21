@@ -1,7 +1,7 @@
 url: https://my.monetr.app/api/health
-status: down
-code: 500
-responseTime: 211
-lastUpdated: 2026-02-20T23:58:22.946Z
+status: up
+code: 200
+responseTime: 121
+lastUpdated: 2026-02-21T00:44:49.875Z
 startTime: 2024-12-08T16:21:28.456Z
 generator: Upptime <https://github.com/upptime/upptime>

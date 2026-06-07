@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
-    "time": 231,
-    "timeDay": 133,
-    "timeWeek": 184,
-    "timeMonth": 194,
-    "timeYear": 224,
+    "time": 230,
+    "timeDay": 123,
+    "timeWeek": 173,
+    "timeMonth": 190,
+    "timeYear": 223,
     "dailyMinutesDown": {
       "2025-10-01": 323,
       "2025-11-24": 533,
@@ -31,15 +31,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.plaid.com.ico",
     "slug": "plaid",
     "status": "degraded",
-    "uptime": "97.79%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "94.92%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "97.80%",
-    "time": 235,
-    "timeDay": 360,
-    "timeWeek": 296,
-    "timeMonth": 287,
+    "uptime": "97.76%",
+    "uptimeDay": "83.39%",
+    "uptimeWeek": "92.55%",
+    "uptimeMonth": "96.79%",
+    "uptimeYear": "97.75%",
+    "time": 234,
+    "timeDay": 235,
+    "timeWeek": 290,
+    "timeMonth": 284,
     "timeYear": 231,
     "dailyMinutesDown": {
       "2025-06-08": 304,
@@ -81,7 +81,8 @@
       "2026-05-17": 245,
       "2026-05-31": 321,
       "2026-06-05": 191,
-      "2026-06-06": 0
+      "2026-06-07": 69,
+      "2026-06-06": 170
     }
   }
 ]

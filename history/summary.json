@@ -32,16 +32,16 @@
     "url": "https://status.plaid.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/status.plaid.com.ico",
     "slug": "plaid",
-    "status": "up",
-    "uptime": "97.22%",
-    "uptimeDay": "100.00%",
+    "status": "degraded",
+    "uptime": "97.23%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.01%",
+    "uptimeMonth": "92.21%",
     "uptimeYear": "96.88%",
     "time": 243,
-    "timeDay": 336,
-    "timeWeek": 316,
-    "timeMonth": 314,
+    "timeDay": 238,
+    "timeWeek": 294,
+    "timeMonth": 312,
     "timeYear": 240,
     "dailyMinutesDown": {
       "2025-09-14": 103,
@@ -89,7 +89,8 @@
       "2026-08-13": 301,
       "2026-08-16": 1136,
       "2026-08-15": 1030,
-      "2026-08-24": 947
+      "2026-08-24": 947,
+      "2026-09-12": 0
     }
   }
 ]

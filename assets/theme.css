@@ -18,3 +18,9 @@ article > p > img {
 article.degraded:not(.degraded-active) {
   --degraded-border-left-color: blueviolet;
 }
+
+/* Upptime doesn't have a way to limit the past incidents or maintenance lists, so only show the 5 most recent days */
+section > h3:nth-of-type(6),
+section > h3:nth-of-type(6) ~ * {
+  display: none;
+}

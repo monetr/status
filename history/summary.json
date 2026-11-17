@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 219,
-    "timeDay": 141,
+    "timeDay": 0,
     "timeWeek": 191,
-    "timeMonth": 220,
+    "timeMonth": 223,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2025-11-24": 533,
@@ -31,17 +31,17 @@
     "url": "https://status.plaid.com/api/v2/status.json",
     "icon": "https://icons.duckduckgo.com/ip3/status.plaid.com.ico",
     "slug": "plaid",
-    "status": "degraded",
-    "uptime": "97.19%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "96.41%",
-    "uptimeMonth": "96.69%",
-    "uptimeYear": "96.70%",
+    "status": "up",
+    "uptime": "97.15%",
+    "uptimeDay": "73.16%",
+    "uptimeWeek": "92.57%",
+    "uptimeMonth": "95.81%",
+    "uptimeYear": "96.63%",
     "time": 250,
-    "timeDay": 302,
-    "timeWeek": 345,
-    "timeMonth": 318,
-    "timeYear": 242,
+    "timeDay": 323,
+    "timeWeek": 356,
+    "timeMonth": 321,
+    "timeYear": 243,
     "dailyMinutesDown": {
       "2025-11-19": 42,
       "2025-12-02": 111,
@@ -85,7 +85,8 @@
       "2026-10-26": 731,
       "2026-11-01": 354,
       "2026-11-12": 362,
-      "2026-11-16": 0
+      "2026-11-17": 193,
+      "2026-11-16": 194
     }
   }
 ]
